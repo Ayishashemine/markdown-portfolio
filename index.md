@@ -1,14 +1,6 @@
----
-layout: default
----
+- Item 1
 
-{% include 01-name.md %}
 
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+- Item 2
+- Item 3
+https://github.com/Ayishashemine
